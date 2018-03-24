@@ -1,0 +1,19 @@
+{
+  "name": "hackms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chriswoodle/hackms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chriswoodle/hackms/issues"
+  },
+  "homepage": "https://github.com/chriswoodle/hackms#readme"
+}
